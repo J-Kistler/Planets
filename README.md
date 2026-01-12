@@ -1,3 +1,3 @@
 # Planets
-Repository tutorial
+Repository tutorial\n
 Extra texts
